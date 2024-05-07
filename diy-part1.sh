@@ -17,5 +17,8 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git lienol https://github.com/Lienol/openwrt-package' >>feeds.conf.default
+echo 'src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' >>feeds.conf.default
 #echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
 #echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter' >>feeds.conf.default
+
+
